@@ -80,6 +80,7 @@ Matius Quintus Corvus
 
 **Traits**
     * Trick Shot [5]
+
         With careful effort, Matius is able to rapid reload his gun, at a cost of 4AP per shot, and an incremental -2 penalty to each shot after the first. 
 
     * Parry Expertise [5]
