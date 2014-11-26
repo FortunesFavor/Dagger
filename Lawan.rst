@@ -129,7 +129,7 @@ Lawan Flavia
         
     * Potion Bow [5GP]
     
-    	Its a crossbow, for potions.  It does no damage when directly fired at an opponant, but is strong enough to break a potion vial.  Effectivly a skill rating of 5 to throw a launched object.
+    	Its a crossbow, for potions.  It does no damage when directly fired at an opponant, but is strong enough to break a potion vial.  Effectively a skill rating of 5 to throw a launched object.
 
     * Armored Leather Corset [5GP]
     
