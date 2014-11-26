@@ -5,6 +5,7 @@ Olivia
 
     .. image:: http://fc03.deviantart.net/fs12/i/2009/072/4/9/Angel_of_Life_by_gabysango2011.jpg
     .. image:: http://www.leatherlore.com/product/armor/women/Dsc15156.jpg
+    .. image:: http://fc00.deviantart.net/fs71/i/2014/218/7/e/sailor_moon___saturn_silence_glaive_sense_3d__3_by_digitalauge-d7tje54.jpg
 
 :Level: [1]
 :Health:
