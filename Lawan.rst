@@ -83,7 +83,9 @@ Lawan Flavia
     * A shielding power of some sort
     * A stun ability
     * An ability that links to my weapon, giving it a special attack
-    * An ability to take cover
+    * An ability to make cover
+    * A research ability
+    * A crafting ability
 
 **Gear**
     * Some weapon
