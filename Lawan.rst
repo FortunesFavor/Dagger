@@ -38,7 +38,7 @@ Lawan Flavia
 
 **Exceptional Skill Aspect**
 
-    Pass
+    Encyclopedea Magica (arcane knowledge)
 
 **Foe Aspect**
 
@@ -54,7 +54,7 @@ Lawan Flavia
 
 **Inferior Skill Aspect**
 
-    Pass
+    Oh, your gay? (seduction)
 
 
 :Body:
