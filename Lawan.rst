@@ -91,7 +91,14 @@ Lawan Flavia
 | continue taking action, or move to the bottom of the initiative track with a penalty |
 | to actions equal to the rounds of preparation taken. Sustaining this ritual requires |
 | conscious effort in the form of 2 AP per round                                       |
-+--------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------+----+------+
+| Glass Jaw                                                                |  5 |    3 |
++--------------------------------------------------------------------------+----+------+
+| By draining the body energy around your opponent, you make them unusually suseptable |
+| to the attacks of others.  For each round of perperation, the opponant's damage      |
+| threshold is lowered by 2.  The effect lasts until the target is successfully        |
+| damaged.                                                                             |
++--------------------------------------------------------------------------+----+------+
 
 **Gear**
     * Poison Dagger [5DMG] [Free]
