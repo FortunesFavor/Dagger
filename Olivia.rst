@@ -22,19 +22,19 @@ Olivia
 
 **Ambition Aspect**
 
-    Indented text goes here for the aspect
+    Phone Home (learn of where she is from)
 
 **Background Aspect**
 
-    Indented text goes here for the aspect
+    Pleasure Slavery
 
 **Conviction Aspect**
 
-    Indented text goes here for the aspect
+    Do as He pleases
 
 **Disadvantage Aspect**
 
-    Indented text goes here for the aspect
+    Codependence
 
 **Exceptional Skill Aspect**
 
@@ -42,11 +42,11 @@ Olivia
 
 **Foe Aspect**
 
-    Indented text goes here for the aspect
+    Xenophobes
 
 **Gear Aspect**
 
-    Indented text goes here for the aspect
+    Pass
 
 **Help Aspect**
 
@@ -54,33 +54,29 @@ Olivia
 
 **Inferior Skill Aspect**
 
-    Indented text goes here for the aspect
+    "Its... too...big...master!" (Lift/Carry/Haul)
 
 
 :Body:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    :Lift/Carry/Haul: 5
+
 :Reflexes:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    :Flight Manuvers: 10
+
 :Wits:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    :Perception: 5
+    :Anatomy: 5
+
 :Persona:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    :Empathy: 5
 
 **Traits**
     * Example Trait
