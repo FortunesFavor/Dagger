@@ -60,7 +60,7 @@ Lawan Flavia
 :Body:
     5
     
-    :Throwing: 5
+    :Lift/Carry/Haul: 5
 
 :Reflexes:
     5
@@ -126,6 +126,10 @@ Lawan Flavia
     * Poison Dagger [5DMG]
 
         After stabbing a target, you may spend 5AP to poison the target.  The poison drains 5 ap a round for 3 rounds.
+        
+    * Potion Bow [5GP]
+    
+    	Its a crossbow, for potions.  It does no damage when directly fired at an opponant, but is strong enough to break a potion vial.  Effectivly a skill rating of 5 to throw a launched object.
 
     * Armored Leather Corset [5GP]
     
