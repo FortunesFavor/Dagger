@@ -38,7 +38,7 @@ Olivia
 
 **Exceptional Skill Aspect**
 
-    Indented text goes here for the aspect
+    I know the body, sir (Anatomy)
 
 **Foe Aspect**
 
@@ -65,13 +65,13 @@ Olivia
 :Reflexes:
     5
 
-    :Flight Manuvers: 10
+    :Flight Manuvers: 7
 
 :Wits:
     5
 
     :Perception: 5
-    :Anatomy: 5
+    :Anatomy: 8
 
 :Persona:
     5
