@@ -88,6 +88,20 @@ Olivia
     * Healing Hands [5AP]
     
         Spending 5 AP, Olivia can heal a touched target by one health level.
+        
+    * Stuka [5AP]
+    
+        spend 5 AP drive down on a target, making an aerial attack that knocks the opponent over, the target takes full damage and has to spend the next round getting to his feet before he can move or attack
+        
+    * Float like a Butterfly [2TP]
+    
+        While in melee and flying, she is +2 to dodge
+        
+    * Strafe [5AP]
+    
+        Spending 5AP allows you to attack a second target in a flying attack
+        
+    * 
 
 **Gear**
     * Glaive of the North [5DMG] [Free]
