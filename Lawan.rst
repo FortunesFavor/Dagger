@@ -66,11 +66,12 @@ Lawan Flavia
     5
     
     :Dodge: 5
+    :Melee: 5
 
 :Wits:
     5
     
-    :Arcane Knowledge: 10
+    :Arcane Knowledge: 5
     :Crystal Craft: 5
 
 :Persona:
