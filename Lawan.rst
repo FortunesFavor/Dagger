@@ -80,13 +80,11 @@ Lawan Flavia
     :Seduction: 5
 
 **Traits**
-    * An elemental power attack of some sort
-    * A shielding power of some sort
-    * A stun ability
-    * An ability that links to my weapon, giving it a special attack
-    * An ability to make cover
-    * A research ability
-    * A crafting ability
+    * Elemental Burst [5DMG]
+
+        Spending 5AP, you emit a blast of elemental energy against a target.  The energy does 5 damage.  An element can only be used once per day.
+
+    * [Insert Rituals Here]
 
 **Gear**
     * Poison Dagger [5DMG] [Free]
