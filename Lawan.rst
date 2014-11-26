@@ -79,12 +79,19 @@ Lawan Flavia
     
     :Seduction: 5
 
-**Traits**
-    * Elemental Burst [5DMG]
+**Traits/Rituals**
 
-        Spending 5AP, you emit a blast of elemental energy against a target.  The energy does 5 damage.  An element can only be used once per day.
-
-    * [Insert Rituals Here]
++--------------------------------------------------------------------------+----+------+
+| Name                                                                     | TP | Prep |
++==========================================================================+====+======+
+| Time Warp                                                                |  5 |    2 |
++--------------------------------------------------------------------------+----+------+
+| By creating a time distortion field around your opponent, you may make it difficult  |
+| for them to act. Targets of the field must make a sucessful Body + Reaction check to |
+| continue taking action, or move to the bottom of the initiative track with a penalty |
+| to actions equal to the rounds of preparation taken. Sustaining this ritual requires |
+| conscious effort in the form of 2 AP per round                                       |
++--------------------------------------------------------------------------------------+
 
 **Gear**
     * Poison Dagger [5DMG] [Free]
