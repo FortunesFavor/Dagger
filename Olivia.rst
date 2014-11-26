@@ -101,7 +101,7 @@ Olivia
     
         Spending 5AP allows you to attack a second target in a flying attack
         
-    * 
+    * [6TP to spend]
 
 **Gear**
     * Glaive of the North [5DMG] [Free]
