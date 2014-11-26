@@ -79,7 +79,6 @@ Matius Quintus Corvus
     :Bluff: 5
 
 **Traits**
-
     * Trick Shot [5]
         With careful effort, Matius is able to rapid reload his gun, at a cost of 4AP per shot, and an incremental -2 penalty to each shot after the first. 
 
@@ -101,7 +100,6 @@ Matius Quintus Corvus
         Prestidigitation, Light, Detect Magic, Mending, Message, Minor Illusion, Break, Faerie Fire
 
 **Gear**
-
     * Skeleton Key [Free]
 
         Able to open most mundane locks effortlessly, and magical locks with enough time (Taking multiple rounds in combat), this artifact of the God of Thieves was found in a vault in the Golden Palace. In addition to the aforementioned unlocking, it also has an ability costing 10AP to activate, that can create a doorway in solid matter to the nearest clearing, even if the doorway opens through hundreds of feet of soil or stone.
