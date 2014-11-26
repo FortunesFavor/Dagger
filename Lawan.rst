@@ -22,19 +22,19 @@ Lawan Flavia
 
 **Ambition Aspect**
 
-    Pass
+    A lab of my own
 
 **Background Aspect**
 
-    Pass
+    Apprentice Gopher
 
 **Conviction Aspect**
 
-    Pass
+    The next big thing
 
 **Dilemma Aspect**
 
-    Pass
+    Moondust (Minor addiction)
 
 **Exceptional Skill Aspect**
 
@@ -42,15 +42,15 @@ Lawan Flavia
 
 **Foe Aspect**
 
-    Pass
+    High Elves
 
 **Gear Aspect**
 
-    Pass
+    Crystal Focus
 
 **Help Aspect**
 
-    Pass
+    (A black market apthicary)
 
 **Inferior Skill Aspect**
 
