@@ -4,6 +4,7 @@ Olivia
 **Description**
 
     .. image:: http://fc03.deviantart.net/fs12/i/2009/072/4/9/Angel_of_Life_by_gabysango2011.jpg
+    .. image:: http://www.leatherlore.com/product/armor/women/Dsc15156.jpg
 
 :Level: [1]
 :Health:
@@ -46,7 +47,7 @@ Olivia
 
 **Gear Aspect**
 
-    Pass
+    Glaive of the North
 
 **Help Aspect**
 
@@ -84,6 +85,10 @@ Olivia
           Description
 
 **Gear**
-    * Example Gear
+    * Glaive of the North [5DMG] [Free]
 
-          Description
+        An Icy staff from the north, fused with a hooked, permanently frozen blade [5 DMG]
+    
+    * Armored Leather Tunic and Skirt [3AR]
+    
+        A leather corset top and roman skirt.  This armor has a rating of +3 to threashold.
