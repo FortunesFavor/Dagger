@@ -80,9 +80,13 @@ Olivia
     :Empathy: 5
 
 **Traits**
-    * Example Trait
+    * Winged Flight [2AP/RD]
 
-          Description
+        Olivia can fly at a cost of 2AP/round, with -2 to hit while in flight
+
+    * Healing Hands [5AP]
+    
+        Spending 5 AP, Olivia can heal a touched target by one health level.
 
 **Gear**
     * Glaive of the North [5DMG] [Free]
@@ -92,3 +96,8 @@ Olivia
     * Armored Leather Tunic and Skirt [3AR]
     
         A leather corset top and roman skirt.  This armor has a rating of +3 to threashold.
+
+    * Tears of Alrios [6GP]
+
+        A teardrop shaped crystal that absorbs the pain and suffering of others when touched to a target [1AP].
+        The tear can be discharged of suffering into a target, causing a the target to be stunned for one round [5AP].
