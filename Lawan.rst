@@ -46,7 +46,7 @@ Lawan Flavia
 
 **Gear Aspect**
 
-    Crystal Focus
+    (Some weapon)
 
 **Help Aspect**
 
@@ -79,11 +79,12 @@ Lawan Flavia
     :Seduction: 5
 
 **Traits**
-    * Name: 
-
-        Description
+    * An elemental power attack of some sort
+    * A shielding power of some sort
+    * A stun ability
+    * An ability that links to my weapon, giving it a special attack
+    * An ability to take cover
 
 **Gear**
-    * Name: 
-
-        Description
+    * Some weapon
+    * Some armor
