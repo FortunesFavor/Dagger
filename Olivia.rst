@@ -101,3 +101,7 @@ Olivia
 
         A teardrop shaped crystal that absorbs the pain and suffering of others when touched to a target [1AP].
         The tear can be discharged of suffering into a target, causing a the target to be stunned for one round [5AP].
+
+    * Rosyn's Grace [4GP]
+    
+        An enchanted rose quartz that guides the user's healing hands [+2 to healing/anatomy]
