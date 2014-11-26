@@ -30,7 +30,7 @@ Lawan Flavia
 
 **Conviction Aspect**
 
-    The next big thing
+    Just a little bit stronger...
 
 **Dilemma Aspect**
 
@@ -59,17 +59,24 @@ Lawan Flavia
 
 :Body:
     5
+    
+    :Lift/Carry/Haul: 5
 
 :Reflexes:
     5
+    
+    :Dodge: 5
 
 :Wits:
     5
     
     :Arcane Knowledge: 10
+    :Crystal Craft: 5
 
 :Persona:
     5
+    
+    :Seduction: 5
 
 **Traits**
     * Name: 
