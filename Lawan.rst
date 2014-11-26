@@ -90,15 +90,15 @@ Lawan Flavia
 **Gear**
     * Some weapon
     * Some armor
-	* Potion Belt [10GP]
-	
-		for 2 AP in combat you can swig a potion from your belt without looking, or spend 5AP to glance down to make sure you get the right one.
+    * Potion Belt [10GP]
 
-		Effects include:
+        for 2 AP in combat you can swig a potion from your belt without looking, or spend 5AP to glance down to make sure you get the right one.
 
-		* Breath of the Beast: Body related abilities are doubled for 5 turns
-		* Bloodroot Draught: Reaction related abilities are doubled for 5 turns
-		* Vision Spice: Perception rolls are made at +10, and you understand all languages spoken or written. Ethereal things become visible to you, though you may not understand them
-		* Solution of Shadow: You become invisible for 5 turns
-		* Oil of the Northborn: You berzerk for 5 turns, unable to take any action other than attack, but able to make 2 attacks per turn. If all of your enemies are dead, you will begin attacking your friends until the effect wears off
-		* Black Blood brew: Drinking this potion gives you super human resistance to injury for exactly 1 turn
+        Effects include:
+
+        * Breath of the Beast: Body related abilities are doubled for 5 turns
+        * Bloodroot Draught: Reaction related abilities are doubled for 5 turns
+        * Vision Spice: Perception rolls are made at +10, and you understand all languages spoken or written. Ethereal things become visible to you, though you may not understand them
+        * Solution of Shadow: You become invisible for 5 turns
+        * Oil of the Northborn: You berzerk for 5 turns, unable to take any action other than attack, but able to make 2 attacks per turn. If all of your enemies are dead, you will begin attacking your friends until the effect wears off
+        * Black Blood brew: Drinking this potion gives you super human resistance to injury for exactly 1 turn
