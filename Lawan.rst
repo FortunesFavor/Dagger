@@ -18,7 +18,7 @@ Lawan Flavia
 
 **Character Concept**
 
-    Alchemist
+    Quarter-Elf Alchemist
 
 **Ambition Aspect**
 
@@ -65,6 +65,8 @@ Lawan Flavia
 
 :Wits:
     5
+    
+    :Arcane Knowledge: 10
 
 :Persona:
     5
