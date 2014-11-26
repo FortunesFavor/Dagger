@@ -46,7 +46,7 @@ Lawan Flavia
 
 **Gear Aspect**
 
-    (Some weapon)
+    Poison Dagger
 
 **Help Aspect**
 
@@ -89,8 +89,11 @@ Lawan Flavia
     * A crafting ability
 
 **Gear**
-    * Some weapon
-    * Some armor
+    * Poison Dagger [5DMG] [Free]
+    
+        After stabbing a target, you may spend 5AP to poison the target.  The poison drains 5 ap a round for 3 rounds.
+    
+    * Leather Corset [15GP]
     * Potion Belt [10GP]
 
         for 2 AP in combat you can swig a potion from your belt without looking, or spend 5AP to glance down to make sure you get the right one.
