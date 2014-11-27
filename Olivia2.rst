@@ -20,19 +20,19 @@ Olivia
 
 **Character Concept**
 
-    Exotic Slave
+    Mysterious Winged Slave Girl
 
 **Ambition Aspect**
 
-    Phone Home (learn of where she is from)
+    Home, a land beyond the Great Sea
 
 **Background Aspect**
 
-    Pleasure Slavery
+    
 
 **Conviction Aspect**
 
-    Do as He pleases
+    Loyalty to Matius
 
 **Disadvantage Aspect**
 
@@ -40,7 +40,7 @@ Olivia
 
 **Exceptional Skill Aspect**
 
-    I know the body, sir (Anatomy)
+    I know the Body (Anatomy)
 
 **Foe Aspect**
 
@@ -48,25 +48,27 @@ Olivia
 
 **Gear Aspect**
 
-    Glaive of the North
+    Astral Silver Glaive
 
 **Help Aspect**
 
-    Only my master
+    Sisters of the Light of Luna
 
 **Inferior Skill Aspect**
-
-    "Its... too...big...master!" (Lift/Carry/Haul)
+    
+    Strong of will but not of body (Lift/Carry/Haul)
+    
 
 
 :Body:
-    5
+    2
 
-    :Lift/Carry/Haul: 5
+    :Lift/Carry/Haul: 3
 
 :Reflexes:
     5
-
+    
+    :Melee: 5
     :Flight Manuvers: 7
 
 :Wits:
@@ -83,40 +85,41 @@ Olivia
 **Traits**
     * Winged Flight [2AP/RD]
 
-        Olivia can fly at a cost of 2AP/round, with -2 to hit while in flight
+        Olivia can fly at a cost of 2AP/round. While in flight, enemies suffer a -2 penalty to hit her
 
     * Healing Hands [5AP]
     
         Spending 5 AP, Olivia can heal a touched target by one health level.
         
-    * Stuka [5AP]
+    * Aerial Strike [5AP]
     
         Spend 5 AP dive down on a target, making an aerial attack that knocks the opponent over, the target takes full damage and has to spend the next round getting to his feet before he can move or attack
         
-    * Float like a Butterfly [2TP]
+    * Suffering [5AP]
     
-        While in melee and flying, she is +2 to dodge
+        Just as with Healing Hands, Olivia can spend 5AP to cause intense pain and cause injury in a touched target. This attack bypasses Armor
         
     * Strafe [5AP]
     
         Spending 5AP allows you to attack a second target in a flying attack
         
-    * [6TP to spend]
+    * Blessing [5AP]
+        
+        Spending 5AP, Olivia may place a blessing on an ally, who may use it to gain advantage on one roll
 
 **Gear**
-    * Glaive of the North [5DMG] [Free]
+    * Astral Silver Glaive [5DMG] [Free]
 
-        An Icy staff from the north, fused with a hooked, permanently frozen blade [5 DMG]
+        Forged from the milky silver of a fallen star, this blade rends flesh cleanly and can be called to Olivia from any distance instantly [5 DMG]
     
     * Armored Leather Tunic and Skirt [3AR]
     
         A leather corset top and roman skirt. This armor has a rating of +3 to threashold.
 
-    * Tears of Alrios [6GP]
-
-        A teardrop shaped crystal that absorbs the pain and suffering of others when touched to a target [1AP].
-        The tear can be discharged of suffering into a target, causing a the target to be stunned for one round [5AP].
-
     * Rosyn's Grace [4GP]
     
         An enchanted rose quartz that guides the user's healing hands [+2 to healing/anatomy]
+        
+    * Divination Gem [5GP]
+    
+        This precious gemstone on a chain, when held in hand allows Olivia to gauge a persons emotions for [2 AP]. For [5 AP] she is able to focus her minds eye through the gem and hear their surface thoughts. She need only be able to see where the person is and does not require eye contact.
