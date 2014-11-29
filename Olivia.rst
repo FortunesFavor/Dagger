@@ -68,13 +68,13 @@ Olivia
 :Reflexes:
     5
     
+    :Perception: 5
     :Melee: 5
     :Flight Manuvers: 7
 
 :Wits:
     5
 
-    :Perception: 5
     :Anatomy: 8
 
 :Persona:
